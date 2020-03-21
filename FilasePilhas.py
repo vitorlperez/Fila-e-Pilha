@@ -1,4 +1,4 @@
-
+#Adicionando um comentario de novo
 class ArrayStack:
     def __init__(self):
         self._data = []

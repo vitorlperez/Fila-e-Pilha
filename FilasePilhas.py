@@ -1,4 +1,3 @@
-#Mais uma tentativa
 
 class ArrayStack:
     def __init__(self):

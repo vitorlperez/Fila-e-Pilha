@@ -1,4 +1,4 @@
-#Filas e Pilhas
+#Filas e Pilhas e muito mais
 class ArrayStack:
     def __init__(self):
         self._data = []

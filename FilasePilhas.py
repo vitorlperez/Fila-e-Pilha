@@ -1,4 +1,5 @@
 #Filas e Pilhas e muito mais
+#Em espanhol
 class ArrayStack:
     def __init__(self):
         self._data = []
